@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Ruby on Rails, Python Django, and API development.<br>I'm looking to collaborate on building scalable and high-performance applications.<br>I'm looking for help with exploring new frameworks or tools for optimizing Ruby on Rails and Django applications.<br>I'm currently learning Advanced cloud computing strategies with AWS and containerized deployments.
+I'm currently working on Ruby on Rails, Python Django, FASTAPI, ReactJS and API development.<br>I'm looking to collaborate on building scalable and high-performance applications.<br>I'm looking for help with exploring new frameworks or tools for optimizing Ruby on Rails and Django applications.<br>I'm currently learning Advanced cloud computing strategies with AWS and containerized deployments.
 
 
 ## 🌐 Socials:
